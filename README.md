@@ -9,6 +9,7 @@ Hi there 👋
 📫 You can reach me at: endotkp@gmail.com
 
 
-[![1504681's GitHub stats](https://github-readme-stats.vercel.app/api?username=1504681)](https://github.com/1504681/github-readme-stats)
+![1504681's GitHub stats](https://github-readme-stats.vercel.app/api?username=1504681&show_icons=true&theme=radical)
+
 
 
