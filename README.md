@@ -1,5 +1,3 @@
-Hi there 👋
-
 📝 My blog & malware reports can be found at [1504681.github.io](http://1504681.github.io)
 
 🔭 I’m currently studying Malware Analysis courses.
