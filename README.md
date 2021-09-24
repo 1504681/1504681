@@ -1,8 +1,8 @@
 📝 My blog & malware reports can be found at [1504681.github.io](http://1504681.github.io)
 
-🔭 I’m currently studying Malware Analysis courses.
+🔭 I’m currently studying Computer Science @ Ryerson University.
 
-💻 I have good experience Reverse Engineering Software & Malware, and spend a lot of time writing C++ programs to read/write memory in common software.
+💻 I am studying Computer Science while learning as much as I can about reverse engineering in my free time.
 
 🌱 I’m documenting all my progress, course notes, and malware writeups on my github blog: https://1504681.github.io/
 
