@@ -4,8 +4,6 @@
 
 💻 I am studying Python, C++ and Java. I spend my free time learning Reverse Engineering.
 
-🌱 I’m documenting all my progress, course notes, and malware writeups on my github blog: https://1504681.github.io/
-
 📫 You can reach me at: endotkp@gmail.com
 
 
