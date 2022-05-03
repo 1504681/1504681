@@ -2,7 +2,7 @@
 
 💻 I am studying Python, C++ and Java. I spend my free time learning Software Reverse Engineering.
 
-📝 My blog & malware reports can be found at [1504681.github.io](http://1504681.github.io)
+📝 Old malware blogs @ [1504681.github.io](http://1504681.github.io)
 
 📫 You can reach me at: endotkp@gmail.com
 
