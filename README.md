@@ -2,7 +2,7 @@
 
 💻 I am studying Python, C++ and Java. I spend my free time learning Software Reverse Engineering.
 
-💻 My new [LeetCode Profile](https://leetcode.com/1504681/)
+💻 My [LeetCode Profile](https://leetcode.com/1504681/)
 
 📝 Old malware blogs @ [1504681.github.io](http://1504681.github.io)
 
