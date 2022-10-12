@@ -2,7 +2,7 @@
 
 💻 I am studying Python, C++ and Java. I spend my free time learning Software Reverse Engineering.
 
-🎮 I make [mods for some of the games I play.](https://github.com/1504681/Terraria-Mod-ImGui).
+🎮 I make [game mods](https://github.com/1504681/Terraria-Mod-ImGui).
 
 💻 My [LeetCode Profile](https://leetcode.com/1504681/)
 
