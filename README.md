@@ -1,5 +1,3 @@
-🔭 I’m currently studying Computer Science @ Ryerson University
-
 💻 I am studying Python, C++ and Java. I spend my free time learning Software Reverse Engineering.
 
 🎮 I make [game mods](https://github.com/1504681/Terraria-Mod-ImGui).
