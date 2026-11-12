@@ -1,9 +1,9 @@
 {
- "updated": "12 Nov 2026 07:26 UTC",
- "total": 27742,
- "total_d30": 1869,
+ "updated": "12 Nov 2026 20:09 UTC",
+ "total": 28813,
+ "total_d30": 1812,
  "best_rank": 393,
- "hub_total": 3519,
+ "hub_total": 3525,
  "plugins": [
   {
    "id": "bank-tab-organizer",
@@ -11,9 +11,9 @@
    "description": "Organize your bank with category overlays, item sorting by stats/skill, and step-by-step reordering",
    "repo": "https://github.com/1504681/BankOrganizerPlugin",
    "hub": "https://runelite.net/plugin-hub/show/bank-tab-organizer",
-   "installs": 15224,
+   "installs": 15800,
    "rank": 393,
-   "d30": 544
+   "d30": 523
   },
   {
    "id": "afk-crab-helper",
@@ -21,9 +21,9 @@
    "description": "Provides a distraction-reducing overlay when training on the Gemstone Crab",
    "repo": "https://github.com/1504681/afk-crab-helper",
    "hub": "https://runelite.net/plugin-hub/show/afk-crab-helper",
-   "installs": 10472,
-   "rank": 491,
-   "d30": -337
+   "installs": 10872,
+   "rank": 490,
+   "d30": -435
   },
   {
    "id": "floor-replacer",
@@ -31,9 +31,9 @@
    "description": "Paints every floor tile in the scene a single colour of your choice",
    "repo": "https://github.com/1504681/FloorReplacer",
    "hub": "https://runelite.net/plugin-hub/show/floor-replacer",
-   "installs": 676,
-   "rank": 1546,
-   "d30": 642
+   "installs": 701,
+   "rank": 1549,
+   "d30": 652
   },
   {
    "id": "ground-items-modifiable",
@@ -41,9 +41,9 @@
    "description": "Ground Items with custom tile fill and outline colours, renameable items and item icons drawn on the ground",
    "repo": "https://github.com/1504681/GroundItemsModifiable",
    "hub": "https://runelite.net/plugin-hub/show/ground-items-modifiable",
-   "installs": 533,
-   "rank": 1656,
-   "d30": 532
+   "installs": 568,
+   "rank": 1649,
+   "d30": 567
   },
   {
    "id": "cox-storage-planner",
@@ -51,9 +51,9 @@
    "description": "Plan what to deposit and withdraw at each Chambers of Xeric storage unit, and track the doses you need for Olm",
    "repo": "https://github.com/1504681/CoxStoragePlanner",
    "hub": "https://runelite.net/plugin-hub/show/cox-storage-planner",
-   "installs": 355,
-   "rank": 1837,
-   "d30": 190
+   "installs": 376,
+   "rank": 1826,
+   "d30": 204
   },
   {
    "id": "chat-regex-filter",
@@ -61,8 +61,8 @@
    "description": "Hides or rewrites any chatbox line that matches your regular expressions, whatever chat type it came from",
    "repo": "https://github.com/1504681/ChatRegexFilter",
    "hub": "https://runelite.net/plugin-hub/show/chat-regex-filter",
-   "installs": 201,
-   "rank": 2107,
+   "installs": 207,
+   "rank": 2113,
    "d30": 138
   },
   {
@@ -71,9 +71,9 @@
    "description": "Times shop restock ticks, counts down with dings and shows when sold items clear so you can plan around the next restock",
    "repo": "https://github.com/1504681/ShopRestockAlert",
    "hub": "https://runelite.net/plugin-hub/show/shop-restock-alert",
-   "installs": 200,
-   "rank": 2111,
-   "d30": 108
+   "installs": 206,
+   "rank": 2116,
+   "d30": 110
   },
   {
    "id": "lightbearer-helper",
@@ -81,9 +81,9 @@
    "description": "Highlights when to swap the Lightbearer for your other rings and pulses the spec orb when spec is ready",
    "repo": "https://github.com/1504681/LightbearerHelper",
    "hub": "https://runelite.net/plugin-hub/show/lightbearer-helper",
-   "installs": 81,
-   "rank": 2509,
-   "d30": 52
+   "installs": 83,
+   "rank": 2524,
+   "d30": 53
   }
  ]
 }
